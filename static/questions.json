@@ -1,0 +1,714 @@
+[
+  {
+    "question": "Đặc điểm nào sau đây dùng để phân biệt giữa quy phạm pháp luật và quy phạm đạo đức:",
+    "answers": [
+      "Quy phạm pháp luật là quy tắc xử sự chung cho nhiều người.",
+      "Quy phạm pháp luật là một tiêu chuẩn để đánh giá hành vi của con người.",
+      "Quy phạm pháp luật do nhà nước đặt ra và đảm bảo thực hiện bằng biện pháp cưỡng chế.",
+      "Quy phạm pháp luật và quy phạm xã hội tương đồng với nhau và không có sự khác biệt."
+    ],
+    "corrects": "Quy phạm pháp luật do nhà nước đặt ra và đảm bảo thực hiện bằng biện pháp cưỡng chế."
+  },
+  {
+    "question": "Trong quy phạm pháp luật, bộ phận gây nên biện pháp tác động của Nhà nước đối với chủ thể có hành vi vi phạm pháp luật là:",
+    "answers": [
+      "Quy định",
+      "Quyết định.",
+      "Chế tài.",
+      "Giả định."
+    ],
+    "corrects": "Chế tài."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng:",
+    "answers": [
+      "Tất cả các quy phạm pháp luật đều có đầy đủ 3 bộ phận: giả định, quy định, chế tài.",
+      "Chế tài được chia làm hai loại: chế tài dân sự và chế tài hình sự.",
+      "Quy phạm pháp luật giống với quy phạm đạo đức.",
+      "Chế tài hình sự áp dụng đối với chủ thể thực hiện hành vi nguy hiểm cho xã hội và bị coi là tội phạm."
+    ],
+    "corrects": "Chế tài hình sự áp dụng đối với chủ thể thực hiện hành vi nguy hiểm cho xã hội và bị coi là tội phạm."
+  },
+  {
+    "question": "Một nhóm các quy phạm pháp luật có đặc điểm chung giống nhau nhằm điều chỉnh một nhóm quan hệ xã hội tương ứng được gọi là:",
+    "answers": [
+      "Quy phạm pháp luật.",
+      "Chế định pháp luật.",
+      "Ngành luật.",
+      "Hệ thống pháp luật."
+    ],
+    "corrects": "Chế định pháp luật."
+  },
+  {
+    "question": "Một tập hợp bao gồm các quy phạm pháp luật điều chỉnh một loại quan hệ xã hội bằng những phương pháp nhất định được gọi là:",
+    "answers": [
+      "Văn bản pháp luật.",
+      "Chế định pháp luật.",
+      "Ngành luật.",
+      "Hệ thống pháp luật."
+    ],
+    "corrects": "Ngành luật."
+  },
+  {
+    "question": "Bộ phận nào của quy phạm pháp luật sẽ trả lời cho câu hỏi ai, trong điều kiện hoàn cảnh nào:",
+    "answers": [
+      "Giả định.",
+      "Chế tài.",
+      "Quy định.",
+      "Quy định hoặc giả định."
+    ],
+    "corrects": "Giả định.",
+    "note": "Quy định trả lời câu hỏi chủ thể được làm cái gì, như thế nào. Chế tài trả lời chủ thể phải gánh chịu hậu quả, bất lợi gì."
+  },
+  {
+    "question": "Cảnh cáo hoặc phạt tiền từ 200 đến 400 ngàn đồng đối với người điều khiển xe, người ngồi hàng ghế phía trước xe ô tô có trang bị dây an toàn nhưng không thắt dây an toàn khi xe đang chạy. Dưới góc độ là người có thẩm quyền xử phạt quy phạm hành chính về giao thông đường bộ nội dung cảnh cáo hoặc phạt tiền trong quy phạm pháp luật nêu trên thuộc bộ phận nào của quy phạm pháp luật:",
+    "answers": [
+      "Giả định.",
+      "Quy định.",
+      "Chế tài.",
+      "Không thể xác định tùy vào trường hợp."
+    ],
+    "corrects": "Quy định.",
+    "note": "dưới góc độ là người vi phạm sẽ là câu C."
+  },
+  {
+    "question": "Quy phạm pháp luật sau: người nào đối xử tàn ác, thường xuyên ức hiếp, ngược đãi hoặc làm nhục người lệ thuộc mình làm người đó tự sát sẽ bị phạt tù từ 2 đến 7 năm. Đây là quy phạm pháp luật nào:",
+    "answers": [
+      "Quy phạm pháp luật bắt buộc.",
+      "Quy phạm pháp luật cấm đoán.",
+      "Quy phạm pháp luật trao quyền.",
+      "Quy phạm pháp luật định nghĩa."
+    ],
+    "corrects": "Quy phạm pháp luật cấm đoán."
+  },
+  {
+    "question": "Kết hôn là quyền nam nữ xác lập quan hệ vợ chồng theo quy định của pháp luật, điều kiện kết hôn và đăng ký kết hôn:",
+    "answers": [
+      "Quy phạm pháp luật định nghĩa.",
+      "Quy phạm pháp luật điều chỉnh.",
+      "Quy phạm pháp luật bảo vệ.",
+      "Quy phạm pháp luật cấm đoán."
+    ],
+    "corrects": "Quy phạm pháp luật định nghĩa."
+  },
+  {
+    "question": "Căn cứ vào tính chất vi phạm, chế tài vi phạm được phân chia ra làm các loại nào sau đây:",
+    "answers": [
+      "Hình sự, dân sự.",
+      "Hình sự, dân sự, hành chính.",
+      "Hình sự, dân sự, kỷ luật, hành chính.",
+      "Hình sư, dân sự, lao động, hành chính."
+    ],
+    "corrects": "Hình sự, dân sự, kỷ luật, hành chính."
+  },
+  {
+    "question": "Ông A vận chuyển gia cầm bị bệnh bị cơ quan có thẩm quyền phát hiện lập biên bản và ra quyết định buộc phải tiêu hủy hết toàn bộ số gia cầm bị bệnh này. Đây là biện pháp chế tài gì:",
+    "answers": [
+      "Chế tài hành chính.",
+      "Chế tài hình sự.",
+      "Chế tài kỷ luật.",
+      "Chế tài dân sự."
+    ],
+    "corrects": "Chế tài hành chính."
+  },
+  {
+    "question": "A đánh B gây thương tích, tòa án tuyên B phải bồi thường thiệt hại cho A là 50 triệu đồng, chế tài mà tòa án áp dụng trong trường hợp này thuộc loại chế tài nào:",
+    "answers": [
+      "Chế tài hình sự.",
+      "Chế tài dân sự.",
+      "Chế tài kinh tế.",
+      "Chế tài hành chính."
+    ],
+    "corrects": "Chế tài dân sự."
+  },
+  {
+    "question": "Trong trường hợp vợ chồng xin ly hôn mà chưa được tòa án cho ly hôn bằng bản án hoặc quyết định có hiệu lực pháp luật: nếu một người chết thì người còn lại vẫn được hưởng thừa kế di sản. Hãy xác định bộ phận giả định trong phần quy phạm pháp luật vừa nêu.",
+    "answers": [
+      "Vợ chồng.",
+      "Tòa án.",
+      "Vợ chồng, toàn án.",
+      "Người còn lại."
+    ],
+    "corrects": "Người còn lại.",
+    "note": "Bộ phận quy định: “vẫn được thừa kế di sản”. Điều kiện hoàn cảnh giả định: “ trong trường hợp…có hiệu lực pháp luật”."
+  },
+  {
+    "question": "Quan hệ pháp luật là quan hệ xã hội được điều chỉnh bởi:",
+    "answers": [
+      "Phong tục tập quán.",
+      "Quy phạm pháp luật.",
+      "Quy phạm đạo đức.",
+      "Tín điều tồn giáo."
+    ],
+    "corrects": "Quy phạm pháp luật."
+  },
+  {
+    "question": "Thành phần nào sau đây không phải là thành phần của quan hệ pháp luật:",
+    "answers": [
+      "Nội dung của quan hệ pháp luật.",
+      "Tự chịu pháp lý.",
+      "Chủ thể của quan hệ pháp luật.",
+      "Khách thể của quan hệ pháp luật."
+    ],
+    "corrects": "Tự chịu pháp lý."
+  },
+  {
+    "question": "Chủ thể của quan hệ pháp luật là:",
+    "answers": [
+      "Cá nhân đáp ứng được những điều kiện, quy định cho từng loại quan hệ pháp luật và tham gia vào quan hệ pháp luật.",
+      "Tổ chức đáp ứng được các điều kiện theo quy định của pháp luật.",
+      "Cá nhân và tổ chức đáp ứng được những điều kiện theo quy định cho từng loại quan hệ pháp luật và tham gia vào quan hệ pháp luật đó.",
+      "Nhà nước."
+    ],
+    "corrects": "Cá nhân và tổ chức đáp ứng được những điều kiện theo quy định cho từng loại quan hệ pháp luật và tham gia vào quan hệ pháp luật đó."
+  },
+  {
+    "question": "Quan hệ nào sau đây là quan hệ pháp luật:",
+    "answers": [
+      "Quan hệ tình yêu nam nữ.",
+      "Quan hệ bạn bè cùng lớp.",
+      "Quan hệ vợ chồng.",
+      "Quan hệ thầy trò."
+    ],
+    "corrects": "Quan hệ vợ chồng."
+  },
+  {
+    "question": "Quan hệ pháp luật không thể phát sinh thay đổi, chấm dứt khi:",
+    "answers": [
+      "Không xác định được sự kiện pháp lý xảy ra.",
+      "Không có quy phạm pháp luật để điều chỉnh quan hệ xã hội.",
+      "Không có chủ thể tham gia quan hệ xã hội được pháp luật điều chỉnh.",
+      "Tất cả các đáp án trên đều đúng."
+    ],
+    "corrects": "Tất cả các đáp án trên đều đúng."
+  },
+  {
+    "question": "Cá nhân là chủ thể của một quan hệ pháp luật cụ thể khi:",
+    "answers": [
+      "Có năng lực chủ thể và tham gia vào trong quan hệ pháp luật đó.",
+      "Có năng lực pháp luật và sẽ tham gia vào quan hệ pháp luật đó,",
+      "Có khả năng bằng hành vi của mình xác lập quyền và nghĩa vụ pháp lý.",
+      "Có năng lực pháp luật và đạt tới một độ tuổi nhất định."
+    ],
+    "corrects": "Có năng lực chủ thể và tham gia vào trong quan hệ pháp luật đó."
+  },
+  {
+    "question": "Nội dung của quan hệ pháp luật là:",
+    "answers": [
+      "Quyền và nghĩa vụ pháp lý của chủ thể tham gia vào quan hệ pháp luật.",
+      "Quyền và nghĩa vụ của mọi cá nhân, tổ chức, cơ quan Nhà nước.",
+      "Quyền và nghĩa vụ của các cơ quan Nhà nước và công dân.",
+      "Quyền và nghĩa vụ thể hiện địa vị pháp lý của công dân."
+    ],
+    "corrects": "Quyền và nghĩa vụ pháp lý của chủ thể tham gia vào quan hệ pháp luật."
+  },
+  {
+    "question": "Quan hệ pháp luật hình thành là do:",
+    "answers": [
+      "Ý chí của tổ chức và đàm phàn chính trị.",
+      "Ý chỉ của công dân, người nước ngoài, người không có quốc tịch.",
+      "Ý chí của Nhà nước và các chủ thể tham gia vào trong quan hệ pháp luật.",
+      "Ý chí của tác nhân là tổ chức kinh tế, tổ chức chính trị."
+    ],
+    "corrects": "Ý chí của Nhà nước và các chủ thể tham gia vào trong quan hệ pháp luật."
+  },
+  {
+    "question": "Pháp nhân là:",
+    "answers": [
+      "Một tổ chức đáp ứng được những điều kiện theo quy định của pháp luật.",
+      "Một tổ chức được thành lập hợp pháp như doanh nghiệp.",
+      "Một tổ chức là quỹ xã hội, quỹ từ thiện.",
+      "Tổ chức chính trị, tổ chức kinh tế."
+    ],
+    "corrects": "Một tổ chức đáp ứng được những điều kiện theo quy định của pháp luật."
+  },
+  {
+    "question": "Năng lực pháp luật của cá nhân được xác định bởi:",
+    "answers": [
+      "Người đó hoặc một tổ chức nhất định.",
+      "Nhà nước.",
+      "Người có chức vụ.",
+      "Nhà nước thể hiện thông qua các văn bản quy phạm pháp luật."
+    ],
+    "corrects": "Nhà nước thể hiện thông qua các văn bản quy phạm pháp luật."
+  },
+  {
+    "question": "Năng lực pháp luật của cá nhân xuất hiện khi:",
+    "answers": [
+      "Cá nhân sinh ra và còn sống.",
+      "Cá nhân đạt đến một độ tuổi nhất định.",
+      "Cá nhân có khả năng nhận thức, làm chủ hành vi.",
+      "Cá nhân đạt đến một độ tuổi nhất định, có sức khỏe và khả năng nhận thức làm chủ hành vi."
+    ],
+    "corrects": "Cá nhân sinh ra và còn sống.",
+    "note": "nếu hỏi năng lực hành vi thì đáp án là D."
+  },
+  {
+    "question": "Hành vi pháp lý là những sự kiện thực tế:",
+    "answers": [
+      "Phản ánh ý chí con người.",
+      "Chỉ được thể hiện bằng hành động.",
+      "Được pháp luật quy định.",
+      "Phản ánh ý chí con người và được pháp luật quy định."
+    ],
+    "corrects": "Phản ánh ý chí con người và được pháp luật quy định."
+  },
+  {
+    "question": "Nhận định nào sai về năng lực hành vi của cá nhân:",
+    "answers": [
+      "Độ tuổi, tình trạng sức khỏe, khả năng nhận thức và làm chủ hành vi là căn cứ xác định năng lực hành vi của cá nhân.",
+      "Năng lực hành vi của cá nhân là khả năng của chủ thể được Nhà nước thừa nhận và bằng hành vi của mình xác lập thực hiện các quyền và nghĩa vụ pháp lý.",
+      "Năng lực pháp luật là điều kiện cần, năng lực hành vi là điều kiện đủ để cá nhân trở thành chủ thể của quan hệ pháp luật.",
+      "Có năng lực pháp luật hoặc không có năng lực hành vi thì không thể tham gia vào quan hệ pháp luật."
+    ],
+    "corrects": "Có năng lực pháp luật hoặc không có năng lực hành vi thì không thể tham gia vào quan hệ pháp luật.",
+    "note": "Ở câu D không thể tham gia trực tiếp nhưng vẫn có thể tham gia gián tiếp (thông qua người đại diện…)"
+  },
+  {
+    "question": "Năng lực chủ thể:",
+    "answers": [
+      "Của mọi cá nhân, công dân Việt Nam là như nhau.",
+      "Bao gồm năng lực pháp luật và năng lực hành vi.",
+      "Là sự thể hiện ý chí của chủ thể tham gia vào quan hệ pháp luật.",
+      "Tất cả các đáp án trên đều đúng."
+    ],
+    "corrects": "Bao gồm năng lực pháp luật và năng lực hành vi."
+  },
+  {
+    "question": "Đặc điểm nào sau đây không phải là của sự kiện pháp lý:",
+    "answers": [
+      "Là những điều kiện hoàn cảnh, tình huống cụ thể.",
+      "Được pháp luật gắn với sự phát sinh thay đổi chấm dứt quan hệ pháp luật.",
+      "Có tính có trước, sau tới quan hệ pháp luật.",
+      "Là khả năng lựa chọn, xử sự của chủ thể trong khuôn khổ quy phạm pháp luật."
+    ],
+    "corrects": "Là khả năng lựa chọn, xử sự của chủ thể trong khuôn khổ quy phạm pháp luật."
+  },
+  {
+    "question": "Xử biến pháp lý là:",
+    "answers": [
+      "Là những hiện tượng không phụ thuộc vào ý chí của con người mà được pháp luật gắn với sự thay đổi, chấm dứt quan hệ pháp luật.",
+      "Là hiện tượng phụ thuộc vào ý chí của con người và được pháp luật gắn với sự xuất hiện, thay đổi, chấm dứt quan hệ pháp luật.",
+      "Là yếu tố thúc đẩy chủ thể tham gia vào quan hệ pháp luật.",
+      "Được biểu hiện dưới dạng hành động hoặc không hành động."
+    ],
+    "corrects": "Là những hiện tượng không phụ thuộc vào ý chí của con người mà được pháp luật gắn với sự thay đổi, chấm dứt quan hệ pháp luật."
+  },
+  {
+    "question": "Do cúp điện, nhà anh X đã dùng nến thắp sáng không may bắt lửa vào tấm màn treo gần đó và gây ra hỏa hoạn. Sự việc hỏa hoạn này là:",
+    "answers": [
+      "Xử biến pháp lý.",
+      "Hành vi pháp lý.",
+      "Cả xử biến pháp lý và hành vi pháp lý.",
+      "Xử sự pháp lý."
+    ],
+    "corrects": "Xử biến pháp lý."
+  },
+  {
+    "question": "Lõi động cơ, mục đích của chủ thể đối với hành vi và hậu quả của sự vi phạm pháp luật là dấu hiệu của:",
+    "answers": [
+      "Mặt khách quan của vi phạm pháp luật.",
+      "Mặt chủ quan của vi phạm pháp luật.",
+      "Mặt chủ thể.",
+      "Mặt khách thể."
+    ],
+    "corrects": "Mặt chủ quan của vi phạm pháp luật."
+  },
+  {
+    "question": "Cố ý trực tiếp là trường hợp:",
+    "answers": [
+      "Người vi phạm nhận thấy trước hậu quả nguy hiểm cho xã hội của hành vi và mong muốn hậu quả xảy ra.",
+      "Nhận thức được hậu quả nguy hiểm cho xã hội của hành vi nhưng để mặc cho hậu quả xảy ra.",
+      "Thấy trước được hậu quả của hành vi của mình là nguy hiểm của xã hội nhưng tin rằng nó không xảy ra.",
+      "Người vi phạm không nhận thức được hậu quả nguy hiểm cho xã hội từ hành vi của mình mặc dù có trách nhiệm phải biết hoặc có thể biết nếu được."
+    ],
+    "corrects": "Người vi phạm nhận thấy trước hậu quả nguy hiểm cho xã hội của hành vi và mong muốn hậu quả xảy ra.",
+    "note": "B (cố ý gián tiếp), C (cố ý vì quá tự tin), D (cố ý do cẩu thả)."
+  },
+  {
+    "question": "Chọn câu trả lời đúng nhất:",
+    "answers": [
+      "Vi phạm pháp luật là hành vi trái pháp luật.",
+      "Hành vi trái pháp luật là vi phạm pháp luật.",
+      "Vi phạm pháp luật là hành vi trái pháp luật và hành vi trái pháp luật là vi phạm pháp luật.",
+      "Không có lựa chọn nào đúng."
+    ],
+    "corrects": "Vi phạm pháp luật là hành vi trái pháp luật."
+  },
+  {
+    "question": "Một hành vi bị xem là vi phạm pháp luật khi hành vi đó xâm hại đến các quan hệ nào sau đây:",
+    "answers": [
+      "Mọi quan hệ tồn tại trong xã hội.",
+      "Những quan hệ xã hội quan trọng.",
+      "Tất cả các quan hệ xã hội được pháp luật thừa nhận và bảo vệ.",
+      "Tất cả các đáp án trên đều sai."
+    ],
+    "corrects": "Tất cả các quan hệ xã hội được pháp luật thừa nhận và bảo vệ."
+  },
+  {
+    "question": "Doanh nghiệp A ký hợp đồng mua bán với doanh nghiệp B, sau khi B giao hàng cho A thì A không thực hiện nghĩa vụ thanh toán. Hành vi không trả tiền theo đúng hợp đồng của A là vi phạm pháp luật:",
+    "answers": [
+      "Hình sự.",
+      "Dân sự.",
+      "Hành chính.",
+      "Kỷ luật."
+    ],
+    "corrects": "Dân sự."
+  },
+  {
+    "question": "Người thực hiện hành vi vi phạm pháp luật không phải chịu trách nhiệm pháp lý nếu:",
+    "answers": [
+      "Chưa đủ tuổi theo quy định.",
+      "Bị mắc bệnh tâm thần.",
+      "Phòng vệ chính đáng.",
+      "Chưa đủ tuổi theo quy định hoặc mắc bệnh tâm thần hoặc ở trưởng hợp phòng vệ chính đáng."
+    ],
+    "corrects": "Chưa đủ tuổi theo quy định hoặc mắc bệnh tâm thần hoặc ở trưởng hợp phòng vệ chính đáng."
+  },
+  {
+    "question": "Hành vi của con người được xem là vi phạm pháp luật kể từ khi:",
+    "answers": [
+      "Tồn tại dưới dạng mong muốn của người thực hiện hành vi.",
+      "Tồn tại trong suy nghĩ của người thực hiện hành vi.",
+      "Được thể hiện bằng hành vi cụ thể, có thể là hành động hoặc không hành động.",
+      "Tất cả đáp án trên đều sai."
+    ],
+    "corrects": "Được thể hiện bằng hành vi cụ thể, có thể là hành động hoặc không hành động."
+  },
+  {
+    "question": "Vi phạm dân sự là những hành vi vi phạm pháp luật xâm phạm tới quan hệ nào sau đây:",
+    "answers": [
+      "Quan hệ sở hữu và quan hệ tình cảm.",
+      "Quan hệ tài sản và quan hệ nhân thân.",
+      "Quan hệ sở hữu và quan hệ nhân thân.",
+      "Quan hệ tài sản và quan hệ tình cảm."
+    ],
+    "corrects": "Quan hệ tài sản và quan hệ nhân thân."
+  },
+  {
+    "question": "Loại trách nhiệm pháp lý nào sau đây là trách nhiệm nghiêm khắc nhất:",
+    "answers": [
+      "Hình sự.",
+      "Hành chính.",
+      "Dân sự.",
+      "Kỷ luật."
+    ],
+    "corrects": "Hình sự."
+  },
+  {
+    "question": "Hành vi cướp của giết người thì sẽ bị truy cứu loại trách nhiệm nào sau đây:",
+    "answers": [
+      "Trách nhiệm hình sự.",
+      "Trách nhiệm hành chính.",
+      "Trách nhiệm dân sự.",
+      "Trách nhiệm kỷ luật."
+    ],
+    "corrects": "Trách nhiệm hình sự."
+  },
+  {
+    "question": "Vượt đèn đỏ mà không gây tai nạn là hành vi vi phạm pháp luật bị truy cứu:",
+    "answers": [
+      "Hình sự",
+      "Hành chính.",
+      "Dân sự.",
+      "Kỷ luật."
+    ],
+    "corrects": "Hành chính."
+  },
+  {
+    "question": "Quay cóp tài liệu trong giờ kiểm tra thì chịu trách nhiệm nào:",
+    "answers": [
+      "Hình sự",
+      "Hành chính.",
+      "Dân sự.",
+      "Kỷ luật."
+    ],
+    "corrects": "Kỷ luật."
+  },
+  {
+    "question": "Điều nào sau đây là <strong>không đúng</strong> khi nói về Thủ tướng Chính phủ:",
+    "answers": [
+      "Thủ tướng Chính phủ phải là Đại biểu Quốc hội.",
+      "Thủ tướng Chính phủ do Chủ tịch nước bổ nhiệm.",
+      "Thủ tướng Chính phủ do Quốc hội bầu.",
+      "Thủ tướng Chính phủ đứng đầu cơ quan hành pháp."
+    ],
+    "corrects": "Thủ tướng Chính phủ do Chủ tịch nước bổ nhiệm."
+  },
+  {
+    "question": "Cơ quan có quyền lực thực hiện quyền lập hiến lập pháp quyết định những vấn đề quan trọng của đất nước và giám sát tối cao đối với hoạt động của Nhà nước là:",
+    "answers": [
+      "Đảng Cộng sản Việt Nam.",
+      "Chính phủ.",
+      "Quốc hội.",
+      "Chủ tịch nước."
+    ],
+    "corrects": "Quốc hội."
+  },
+  {
+    "question": "Theo Hiến pháp Việt Nam, Quốc hội không có quyền thực hiện hoạt động nào sau đây:",
+    "answers": [
+      "Làm Hiến pháp, làm luật và sửa đổi luật.",
+      "Quyết định mục tiêu, chỉ tiêu, chính sách phát triển kinh tế xã hội của đất nước.",
+      "Bầu, ủy nhiệm, bãi nhiệm Chủ tích nước.",
+      "Bầu, ủy nhiệm, bãi nhiệm Bộ trưởng, Thủ trưởng cơ quan ngang Bộ."
+    ],
+    "corrects": "Bầu, ủy nhiệm, bãi nhiệm Bộ trưởng, Thủ trưởng cơ quan ngang Bộ."
+  },
+  {
+    "question": "Theo Hiến pháp hiện thành, nhiệm kỳ của Quốc hội là:",
+    "answers": [
+      "3 năm.",
+      "4 năm.",
+      "5 năm.",
+      "6 năm."
+    ],
+    "corrects": "5 năm."
+  },
+  {
+    "question": "Nhận định nào sau đây không chính xác:",
+    "answers": [
+      "Ủy ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội.",
+      "Ủy ban thường vụ Quốc hội gồm Chủ tịch Quốc hội, các phó chủ tịch Quốc hội và các ủy viên.",
+      "Thành viên Ủy ban thường vụ Quốc hội không thể đồng thời là thành viên Chính phủ.",
+      "Ủy ban thường vụ Quốc hội có quyền công bố Hiến pháp luật, pháp lệnh."
+    ],
+    "corrects": "Ủy ban thường vụ Quốc hội có quyền công bố Hiến pháp luật, pháp lệnh.",
+    "note": "Phải là Chủ tịch nước."
+  },
+  {
+    "question": "Người đứng đầu Nhà nước thay mặt nước Cộng Hòa XHCNVN về đối nội và đối ngoại là:",
+    "answers": [
+      "Chủ tịch nước.",
+      "Thủ tướng Chính phủ.",
+      "Chủ tịch Quốc hội.",
+      "Tổng Bí thư."
+    ],
+    "corrects": "Chủ tịch nước."
+  },
+  {
+    "question": "Nhận định nào sau đây không đúng:",
+    "answers": [
+      "Chủ tịch nước do Quốc hội bầu trong số đại biểu Quốc hội.",
+      "Chủ tịch nước không bắt buộc là Đại biểu Quốc hội.",
+      "Chủ tịch nước là người đứng đầu Nhà nước, thay mặt nước CHXHCNVN về đối nội, đối ngoại.",
+      "Nhiệm kỳ Chủ tịch nước theo nhiệm kỳ của Quốc hội."
+    ],
+    "corrects": "Chủ tịch nước không bắt buộc là Đại biểu Quốc hội."
+  },
+  {
+    "question": "Cơ quan nào sau đây là cơ quan Nhà nước trong bộ máy Nhà nước VN:",
+    "answers": [
+      "Đảng CSVN, Hội đồng dân tộc.",
+      "Bộ Chính trị, Bộ GTVT.",
+      "Hội đồng dân tộc, Văn phòng Chính phủ.",
+      "Mặt trận Tổ quốc VN, Liên đoàn luật sư VN."
+    ],
+    "corrects": "Hội đồng dân tộc, Văn phòng Chính phủ."
+  },
+  {
+    "question": "Cơ quan nào sau đây không phải là cơ quan Nhà nước:",
+    "answers": [
+      "Kiểm toán Nhà nước.",
+      "Ngân hàng Nhà nước.",
+      "Tổng cục hải quan.",
+      "Mặt trận Tổ quốc Việt Nam."
+    ],
+    "corrects": "Mặt trận Tổ quốc Việt Nam.",
+    "note": "Đây một tổ chức chính trị."
+  },
+  {
+    "question": "Quốc hội có quyền ban hành loại văn bản quy phạm pháp luật nào sau đây:",
+    "answers": [
+      "Hiến pháp, Nghị định.",
+      "Hiến pháp, Luật, Nghị quyết.",
+      "Luật, Lệnh, Nghị quyết.",
+      "Quyết định, Sắc lệnh, Luật."
+    ],
+    "corrects": "Hiến pháp, Luật, Nghị quyết.",
+    "note": "Chính phủ ban hành Nghị định. Lệnh là của Chủ tịch nước. Thủ tướng Chính phủ ra quyết định. Sắc lệnh là của Ủy ban thường vụ Quốc hội."
+  },
+  {
+    "question": "Chức danh Chủ tịch Ủy ban nhân dân cấp tỉnh sẽ do:",
+    "answers": [
+      "Uy ban nhân dân cấp tỉnh bầu ra.",
+      "Thủ tướng Chính phủ bổ nhiệm.",
+      "Hội đồng nhân dân cấp tỉnh bầu và được Thủ tướng phê chuẩn.",
+      "Ban chấp hành Đảng bộ của tỉnh bầu ra."
+    ],
+    "corrects": "Hội đồng nhân dân cấp tỉnh bầu và được Thủ tướng phê chuẩn."
+  },
+  {
+    "question": "Ở Việt Nam, việc sáp nhập hoặc chia tách một phần đơn vị hành chính cấp tỉnh được quyết đinh bởi cơ quan Nhà nước nào:",
+    "answers": [
+      "Quốc hội.",
+      "Ban chấp hành Trung Ương Đảng.",
+      "Chủ tịch nước.",
+      "Chính phủ."
+    ],
+    "corrects": "Quốc hội."
+  },
+  {
+    "question": "Cơ quan nào sau đây không phải là cơ quan ngang Bộ:",
+    "answers": [
+      "Thanh tra Chính phủ.",
+      "Văn phòng Chính phủ.",
+      "Ngân hàng Nhà nước.",
+      "Kiểm toán Nhà nước."
+    ],
+    "corrects": "Kiểm toán Nhà nước.",
+    "note": "KTNN là do Quốc hội lập."
+  },
+  {
+    "question": "Quốc hội nước CHXHCNVN được bầu bởi:",
+    "answers": [
+      "Hội Công dân Việt Nam.",
+      "Công dân Việt Nam từ đủ 18 tuổi trở lên.",
+      "Công dân Việt Nam từ đủ 21 tuổi trở lên.",
+      "Tất cả người sinh sống và làm việc tại Việt Nam từ 18 tuổi trở lên."
+    ],
+    "corrects": "Công dân Việt Nam từ đủ 18 tuổi trở lên."
+  },
+  {
+    "question": "Nhận định nào sau đây không chính xác:",
+    "answers": [
+      "Tòa án Nhân dân là cơ quan xét xử nước CHXHCNVN, thực hiện quyền hành pháp.",
+      "Tòa án Nhân dân có nhiệm vụ bảo vệ công lý, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ XHCN, bảo vệ Nhà nước, bảo vệ quyền và lợi ích hợp pháp của tổ chức cá nhân.",
+      "Tòa án Nhân dân tối cao là cơ quan xét xử cao nhất của nước CHXHCNVN.",
+      "Chánh án Tòa án nhân dân tối cao do Quốc hội bầu."
+    ],
+    "corrects": "Tòa án Nhân dân là cơ quan xét xử nước CHXHCNVN, thực hiện quyền hành pháp.",
+    "note": "Ở câu A là thực hiện quyền tư pháp."
+  },
+  {
+    "question": "Cơ quan nào sau đây thực hiện quyền công tố trong bộ máy Nhà nước Việt Nam:",
+    "answers": [
+      "Thanh tra Nhà nước.",
+      "Kiểm toán Nhà nước.",
+      "Viện kiểm soát.",
+      "Tòa án nhân dân."
+    ],
+    "corrects": "Viện kiểm soát."
+  },
+  {
+    "question": "Địa điểm mở thừa kế trong trường hợp không xác định được nơi cư trú cuối cùng của người để lại di sản là:",
+    "answers": [
+      "Nơi người để lại di sản chết.",
+      "Nơi người để lại di sản lập di chúc.",
+      "Nơi có toàn bộ di sản hoặc phần lớn di sản của người chết.",
+      "Nơi cư trú của người thừa kế."
+    ],
+    "corrects": "Nơi có toàn bộ di sản hoặc phần lớn di sản của người chết."
+  },
+  {
+    "question": "Điều kiện để cá nhân trở thành người thừa kế là:",
+    "answers": [
+      "Cá nhân phải là người còn sống vào thời điểm mở thừa kế.",
+      "Cá nhân được sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết.",
+      "Cả hai đáp án trên đều đúng.",
+      "Cả hai đáp án trên đều sai."
+    ],
+    "corrects": "Cả hai đáp án trên đều đúng."
+  },
+  {
+    "question": "Thời điểm có hiệu lực của di chúc là:",
+    "answers": [
+      "Di chúc có hiệu lực từ lúc người có di sản lập di chúc.",
+      "Từ thời điểm mở thừa kế.",
+      "Từ thời điểm di chúc được công chứng chứng thực.",
+      "Từ thời điểm người thừa kế yêu cầu mở thừa kế."
+    ],
+    "corrects": "Từ thời điểm mở thừa kế."
+  },
+  {
+    "question": "Người thừa kế không phụ thuộc vào nội dung di chúc bao gồm những ai sau đây:",
+    "answers": [
+      "Con chưa thành nên, cha, mẹ, vợ, chồng.",
+      "Con thành niên mà không có khả năng lao động.",
+      "Cả hai đáp án trên đều đúng.",
+      "Cả hai đáp án trên đều sai."
+    ],
+    "corrects": "Cả hai đáp án trên đều đúng."
+  },
+  {
+    "question": "Người thừa kế không phụ thuộc vào nội dung di chúc được hưởng:",
+    "answers": [
+      "1/2 suất của người kế theo pháp luật nếu di sản được chia theo pháp luật.",
+      "2/3 suất của người kế theo pháp luật nếu di sản được chia theo pháp luật.",
+      "3/4 suất của người kế theo pháp luật nếu di sản được chia theo pháp luật.",
+      "1 suất của người kế theo pháp luật nếu di sản được chia theo pháp luật."
+    ],
+    "corrects": "2/3 suất của người kế theo pháp luật nếu di sản được chia theo pháp luật."
+  },
+  {
+    "question": "Những người nào sau đây thuộc hàng thừa kế thứ hai:",
+    "answers": [
+      "Cha, mẹ, vợ, chồng, con.",
+      "Ông nội, bà nội, ông ngoại, bà ngoại.",
+      "Cô, dì, chú, bác.",
+      "Cụ nội, cụ ngoại của người chết."
+    ],
+    "corrects": "Ông nội, bà nội, ông ngoại, bà ngoại.",
+    "note": "A là hàng 1, C và D là hàng 3"
+  },
+  {
+    "question": "Trường hợp con của người để lại di sản chết trước hoặc chết cùng thời điểm với người để lại di sản thì cháu được hưởng phần di sản mà cha mẹ của cháu được hưởng nếu còn sống gọi là:",
+    "answers": [
+      "Thừa kế không phụ thuộc vào nội dung di chúc.",
+      "Thừa kế theo di chúc.",
+      "Thừa kế theo hàng thừa kế.",
+      "Thừa kế thế vị."
+    ],
+    "corrects": "Thừa kế thế vị."
+  },
+  {
+    "question": "Trong trường hợp thừa kế theo pháp luật, con riêng và bố dượng mẹ kế thì:",
+    "answers": [
+      "Được thừa kế di sản của nhau.",
+      "Được thừa kế di sản của nhau nếu có quan hệ chăm sóc nuôi dưỡng nhau như cha con, mẹ con.",
+      "Không được thừa kế di sản của nhau vì không có quan hệ huyết thống.",
+      "Tất cả đáp án trên đều sai."
+    ],
+    "corrects": "Được thừa kế di sản của nhau nếu có quan hệ chăm sóc nuôi dưỡng nhau như cha con, mẹ con."
+  },
+  {
+    "question": "Di chúc được xem là hợp pháp khi:",
+    "answers": [
+      "Người lập di chúc minh mẫn, sáng suốt trong khi lập di chúc, không bị lừa dối, đe dọa, cưỡng ép.",
+      "Nội dung của di chúc không vi phạm điều cấm pháp luật, không trái đạo đức xã hội.",
+      "Hình thức di chúc không trái quy định của pháp luật.",
+      "Tất các đáp án trên đều đúng."
+    ],
+    "corrects": "Tất các đáp án trên đều đúng."
+  },
+  {
+    "question": "Nếu di sản để lại cho người thừa kế không còn vào thời điểm mở thừa kế thì:",
+    "answers": [
+      "Di chúc vẫn có hiệu lực.",
+      "Di chúc không có hiệu lực.",
+      "Di chúc có hiệu lực nếu những người thừa kế thừa nhận hiệu lực của di chúc.",
+      "Tất cá đáp án trên đều sai."
+    ],
+    "corrects": "Di chúc không có hiệu lực."
+  },
+  {
+    "question": "Khi một người để lại nhiều bản di chúc đối với một tài sản thì:",
+    "answers": [
+      "Chỉ di chúc đầu tiên có hiệu lực.",
+      "Di chúc sau cùng có hiệu lực.",
+      "Tất cả di chúc đều có hiệu lực.",
+      "Theo sự thỏa thuận của những người thừa kế."
+    ],
+    "corrects": "Di chúc sau cùng có hiệu lực."
+  },
+  {
+    "question": "Di chúc miệng mặc nhiên bị hủy bỏ khi:",
+    "answers": [
+      "Sau 3 tháng kể từ thời điểm di chúc miệng được lập mà người lập vẫn còn sống, minh mẫn, sáng suốt.",
+      "Sau 6 tháng kể từ thời điểm di chúc miệng được lập mà người lập vẫn còn sống, minh mẫn, sáng suốt.",
+      "Sau 9 tháng kể từ thời điểm di chúc miệng được lập mà người lập vẫn còn sống, minh mẫn, sáng suốt.",
+      "Sau 12 tháng kể từ thời điểm di chúc miệng được lập mà người lập vẫn còn sống, minh mẫn, sáng suốt."
+    ],
+    "corrects": "Sau 3 tháng kể từ thời điểm di chúc miệng được lập mà người lập vẫn còn sống, minh mẫn, sáng suốt."
+  }
+]
