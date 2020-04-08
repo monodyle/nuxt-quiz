@@ -18,7 +18,7 @@
     "@nuxtjs/tailwindcss": "^1.0.0",
     "nodemon": "^1.18.9",
     "acorn": ">=6.4.1",
-    "minimist": "1.2.2"
+    "minimist": "1.2.3"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
